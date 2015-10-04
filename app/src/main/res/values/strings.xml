@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JunsAndroidTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="button_test_camera">Test Camera</string>
+    <string name="button_test_activity">Test Activity</string>
+</resources>
